@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Sirenix.OdinInspector;
 
-//Sun lia
+//PlaySchool_GameScripts
 namespace TMKOC.Sorting
 {
     public enum AudioLanguage
